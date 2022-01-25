@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/HelloKotlin" />
+            <option value="$PROJECT_DIR$/InlineFunc" />
+            <option value="$PROJECT_DIR$/Loop" />
+            <option value="$PROJECT_DIR$/Return_Jump" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/classNobject" />
+            <option value="$PROJECT_DIR$/ifCondition" />
+            <option value="$PROJECT_DIR$/lambda" />
+            <option value="$PROJECT_DIR$/lambdaFunc" />
+            <option value="$PROJECT_DIR$/switch" />
+            <option value="$PROJECT_DIR$/whileLoop" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
